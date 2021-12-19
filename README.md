@@ -5,8 +5,9 @@ This script provides a python 3 Selenium based authentication against Duo protec
 Use this way:
 
 1. Download and install the Selenium based browser driver based on this:
-   https://selenium-python.readthedocs.io/
-   I tested with Chrome. 
+   https://selenium-python.readthedocs.io/  
+   
+   I tested with Chrome browser. 
 
 2. Run this script with the necessary parameters:
 
