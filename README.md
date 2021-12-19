@@ -10,10 +10,10 @@ Use this way:
 
 2. Run this script with the necessary parameters:
 
-python3 Duo_selenium_auth.py 
-Duo SAML protected Service Provider (SP) URL (WITHOUT https://): sp.duoprotected.com
-Username: username@domain.net
-Password: BigSecretPassword
-Sending username...
-Sending password... 
+python3 Duo_selenium_auth.py   
+Duo SAML protected Service Provider (SP) URL (WITHOUT https://): sp.duoprotected.com  
+Username: username@domain.net  
+Password: BigSecretPassword  
+Sending username...  
+Sending password...   
  
