@@ -10,17 +10,17 @@ Use this way:
    I tested with Chrome browser. 
 
 2. Run this script with the necessary parameters, like URL (without https://), username and password. like this way:
-
+```
 python3 Duo_selenium_auth.py sp.duoprotected.com username@domain.net BigSecretPassword  
 Sending username...  
 Sending password...    
-
+```
 Otherwise script will ask them:  
-
+```
 python3 Duo_selenium_auth.py   
 Duo SAML protected Service Provider (SP) URL (WITHOUT https://): sp.duoprotected.com  
 Username: username@domain.net  
 Password: BigSecretPassword  
 Sending username...  
 Sending password...   
- 
+```
