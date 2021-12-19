@@ -4,10 +4,15 @@ This script provides a Python 3 Selenium based authentication against a Duo SAML
 
 Use this way:
 
-1. Download and install the Selenium based browser driver based on this:
+1. Download and install the Selenium based web browser driver based on this:
    https://selenium-python.readthedocs.io/  
    
    I tested with Chrome browser. 
+   
+   Install the selenium python package:
+   ```
+   pip install selenium
+   ```
 
 2. Run this script with the necessary parameters, like domain (without https://), username and password like this way:
 ```
