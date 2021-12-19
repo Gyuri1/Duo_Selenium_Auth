@@ -9,7 +9,7 @@ Use this way:
    
    I tested with Chrome browser. 
 
-2. Run this script with the necessary parameters, like URL (without https://), username and password like this way:
+2. Run this script with the necessary parameters, like domain (without https://), username and password like this way:
 ```
 python3 Duo_selenium_auth.py sp.duoprotected.com username@domain.net BigSecretPassword  
 Sending username...  
