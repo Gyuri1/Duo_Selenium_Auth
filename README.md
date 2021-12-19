@@ -1,6 +1,6 @@
 # Duo_Selenium_Auth
 
-This script provides a python 3 Selenium based authentication against Duo protected SAML Service Provider Application.
+This script provides a python 3 Selenium based authentication against Duo SAML protected Service Provider Application.
 
 Use this way:
 
